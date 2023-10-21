@@ -11,8 +11,9 @@
 
 
 ### AI Engineer / Data Scientist
+
 🎓 세종대학교 전자정보통신공학과 졸업  
-🔎 T아카데미 ASAC 빅데이터분석가과정 2기 수료
+🔎 T-academy ASAC 빅데이터분석가과정 2기 수료
 
   <br>
  
