@@ -32,9 +32,11 @@
 </div>
 
 <div align="center">
-
- <img src="https://leetcard.jacoblin.cool/aguagu2ya?theme=unicorn&font=ABeeZee&width=500&height=200"/>
+  
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustmqwnd2ya"/>
+ 
+ <img src="https://leetcard.jacoblin.cool/aguagu2ya?theme=unicorn&font=ABeeZee&width=500&height=200"/>
+
 
 </div>
 
