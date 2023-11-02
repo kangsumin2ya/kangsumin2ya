@@ -33,9 +33,9 @@
 
 <div align="center">
   
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustmqwnd2ya"/>
+ <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustmqwnd2ya"/>
  
- <img src="https://leetcard.jacoblin.cool/aguagu2ya?theme=unicorn&font=ABeeZee&width=500&height=200"/>
+ <img align="right" src="https://leetcard.jacoblin.cool/aguagu2ya?theme=unicorn&font=ABeeZee&width=500&height=200"/>
 
 
 </div>
