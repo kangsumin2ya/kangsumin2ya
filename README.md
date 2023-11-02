@@ -4,7 +4,7 @@
   
 ## 👋 SUMIN KANG 👋
 
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustmqwnd2ya"/>
+
   
 [![Gmail Badge](https://img.shields.io/badge/kangsumin2ya@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangsumin2ya@gmail.com)](kangsumin2ya@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangsumin2ya&count_bg=%23C83D4D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com) 
@@ -15,10 +15,7 @@
 🎓 세종대학교 전자정보통신공학과 졸업  
 🔎 T-academy ASAC 빅데이터분석가과정 2기 수료
 
-  <br>
- 
 </div>
-
 
 <div align="center">
 
@@ -32,6 +29,14 @@
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
+</div>
+
+<div align="center">
+
+ <img src="https://leetcard.jacoblin.cool/aguagu2ya?theme=unicorn&font=ABeeZee&width=500&height=200"/>
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustmqwnd2ya"/>
+
+</div>
 
 <!--
 
