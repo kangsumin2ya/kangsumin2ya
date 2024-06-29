@@ -10,7 +10,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangsumin2ya&count_bg=%23C83D4D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com) 
 
 
-### AI Engineer
+### Data Engineer
 
 🎓 세종대학교 전자정보통신공학과 졸업  
 🔎 T-academy ASAC 빅데이터분석가과정 2기 수료
