@@ -1,6 +1,10 @@
 <div align="center">
 
-  
+<!--<a href="https://solved.ac/profile/dustmqwnd2ya"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dustmqwnd2ya"/>-->
+
+<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=dustmqwnd2ya&theme=dark)-->
+
+
   
 ## 👋 SUMIN KANG 👋
 
@@ -32,6 +36,11 @@
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
+
+
+<!--![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangsumin2ya&show_icons=true&theme=radical)-->
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsumin2ya&layout=compact&theme=tokyonight)-->
 
 <!--
 </div>
