@@ -4,7 +4,11 @@
 
 <!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=dustmqwnd2ya&theme=dark)-->
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/kangsumin2ya?pet-id=1" width="1000" height="120"/>
+</a>
 
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=kangsumin2ya&theme=nightowl&locale=ko)](https://git.io/streak-stats)-->
   
 ## 👋 SUMIN KANG 👋
 
