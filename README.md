@@ -1,74 +1,37 @@
-<div align="center">
+## SUMIN KANG 🐯
 
-<!--<a href="https://solved.ac/profile/dustmqwnd2ya"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dustmqwnd2ya"/>-->
+### 👩‍💻 PROFILE 
 
-<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=dustmqwnd2ya&theme=dark)-->
+- **AI Engineer**
+- [**BLOG**](https://velog.io/@klaus/posts) 
+- **2025 오픈소스 컨트리뷰션 아카데미** 참여형 참여 `2025.07 ~ 2025.12`
+- **SK플래닛 T아카데미 빅데이터 분석 전문가 2기** 수료 `2023.03 ~ 2023.09`
+- **전자정보통신공학과** 졸업 `2018.03 ~ 2023.02`
 
-<!--<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/kangsumin2ya?pet-id=1" width="1000" height="120"/>
-</a>-->
+### 🖥️ PROJECTS
+| **기간** | **프로젝트명** | **주관**  |
+| -------- | ------------| ----------- |
+|`2025.07 - 2025.12`|[**O-RAN AI/ML FW**](https://github.com/o-ran-sc) | 과학기술정보통신부, 정보통신산업진흥원 |
+|`2023.07 - 2023.09`|[**MLOps 기반 NFT 추천 시스템 - Data Pipeline**](https://github.com/our-ml-flow/data_pipeline) | SK 플래닛 |
+|`2023.07 - 2023.09`|[**MLOps 기반 NFT 추천 시스템 - 웹페이지**](https://github.com/our-ml-flow/streamlit) | SK 플래닛 |
+|`2023.06`|**목소리 생성 모델을 활용한 미술관 도슨트 프로젝트** | SK 플래닛 |
+|`2023.05`|**인스타그램 광고 효과 예측 시스템** | SK 플래닛 |
+|`2022.09 - 2022.12`|**CLRS (케어라벨 인식 서비스)** | 전자정보통신공학과 |
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=kangsumin2ya&theme=nightowl&locale=ko)](https://git.io/streak-stats)-->
-  
-## 👋 SUMIN KANG 👋
+### 🦾 SKILLS
+#### Development
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
 
- <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustmqwnd2ya"/>
-  
-[![Gmail Badge](https://img.shields.io/badge/kangsumin2ya@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangsumin2ya@gmail.com)](kangsumin2ya@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangsumin2ya&count_bg=%23C83D4D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=true)](https://hits.seeyoufarm.com) 
+#### Platform & Infrastructure
+<img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=Prefect&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> 
 
-
-### Data Engineer
-
-🎓 세종대학교 전자정보통신공학과 졸업  
-🔎 T-academy ASAC 빅데이터분석가과정 2기 수료
-
-<br>
-
-
-</div>
-
-<div align="center">
-
-  
-### **🛠️ Languages & Platforms**
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Prefect-070E10?style=flat-square&logo=Prefect&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> 
+### 🪪 CERTIFICATES
+| **발급날짜** | **자격증** |  **발급기관**  |
+| -------- | ------------| ----------- |
+|`2025.06.27`|**SQLD** | 한국데이터산업진흥원|
+|`2024.03.20`|**OPIC IM2**| ACTFL |
+|`2023.03.24`|**ADsP (데이터분석준전문가)**| 한국데이터산업진흥원 |
 
 
-### **💪🏼 Tools**
-
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-
-
-
-<!--![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangsumin2ya&show_icons=true&theme=radical)-->
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsumin2ya&layout=compact&theme=tokyonight)-->
-
-<!--
-</div>
-
-<div align="center">
-
-  
-![Sumin's GitHub statss](https://github-readme-stats.vercel.app/api?username=kangsumin2ya&show_icons=true&theme=tokyonight)  
-
-</div>
-
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangsumin2ya&theme=vue-dark&show_icons=true)
-
-
-**kangsumin2ya/kangsumin2ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 SOLVED.AC
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dustmqwnd2ya)](https://solved.ac/dustmqwnd2ya)
